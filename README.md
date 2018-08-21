@@ -1,6 +1,6 @@
 # Google Location Api
 
-Google Location Api - I have used Firebase for saving the use data
+Google Location Api - I have used Firebase for saving the user data
 <br>Link this project with your own firebase project
 
 <img src="https://github.com/meetAhmed/Google-Location-Api/blob/master/Screenshots/screenshot-1534841721946.jpg" width="50%" height="auto">
