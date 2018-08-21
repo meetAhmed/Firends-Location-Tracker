@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2b2b2b</color>
+    <color name="colorPrimaryDark">#292929</color>
+    <color name="colorAccent">#787878</color>
+
+
+    <color name="trans">#eaeaea</color>
+    <color name="trans_more">#beeaeaea</color>
+    <color name="red">#ffff0000</color>
+    <color name="green">#08ff00</color>
+    <color name="yellow">#fffb0d</color>
+
+    <color name="dark_blue">#23283a</color>
+    <color name="blue">#2f333f</color>
+    <color name="dark_blue_light">#bc606884</color>
+
+</resources>

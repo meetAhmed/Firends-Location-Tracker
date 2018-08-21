@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/content_test" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recViewer"
+        android:background="@android:color/transparent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|end"
+        android:scrollbars="vertical"
+        android:layout_margin="7dp" />
+
+</android.support.design.widget.CoordinatorLayout>
